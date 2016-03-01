@@ -20,7 +20,7 @@ We've been testing Spring Boot on Weblogic 12c and although not complicated, I l
   &nbsp;&nbsp;CorrelationID: asad</br>
   &nbsp;&nbsp;Content-Type: application/xml</br>
 &nbsp;Payload:</br>
-  &nbsp;&nbsp;<environment><application>everis</application><messg><id>23fg-esd3-frde4</id></messg><timestamp>Hoy</timestamp></environment></br>
+  &nbsp;&nbsp;&lt;environment&gt;&lt;application&gt;everis&lt;/application&gt;&lt;messg&gt;&lt;id&gt;23fg-esd3-frde4&lt;/id&gt;&lt;/messg&gt;&lt;timestamp&gt;Hoy&lt;/timestamp&gt;&lt;/environment&gt;</br>
 </p>
 <hr>
 </br>
