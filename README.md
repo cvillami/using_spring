@@ -11,5 +11,7 @@ The first data source was attempting to use H2 in memory, and again lost hours u
 <b>sb-weblogic-archetype</b>:</br> 
 We've been testing "Spring Boot" on Weblogic 12c and although not complicated, I leave an archetype that generates an SB project with a RESTful service.
 </br>
-Expected to be of help.
+
 <hr>
+</br>
+Expected to be of help.
