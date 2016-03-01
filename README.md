@@ -11,7 +11,15 @@ The first data source was attempting to use H2 in memory, and again lost hours u
 <b>sb-weblogic-archetype</b>:</br> 
 We've been testing "Spring Boot" on Weblogic 12c and although not complicated, I leave an archetype that generates an SB project with a RESTful service.
 </br>
-
+URL: http://127.0.0.1:7001/poc-wl/0.1/sb/wl12/environment
+Method: POST
+Headers:
+  Authorization: SIF
+  timestamp: 20150928
+  CorrelationID: asad
+  Content-Type: application/xml
+Payload:
+  <environment><application>everis</application><messg><id>23fg-esd3-frde4</id></messg><timestamp>Hoy</timestamp></environment>
 <hr>
 </br>
 Expected to be of help.
