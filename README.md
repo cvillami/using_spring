@@ -10,7 +10,7 @@ The first data source was attempting to use H2 in memory, and again lost hours u
 <hr>
 <b>sb-weblogic-archetype</b>:</br> 
 We've been testing Spring Boot on Weblogic 12c and although not complicated, I leave an archetype that generates an SB project with a RESTful service.</br>
-If you deploy more than one project in your weblogic beware the file (weblogic.xml) 
+If you deploy more than one project in your weblogic beware the file : weblogic.xml
 </br>
 <p>
 &nbsp;URL: http://127.0.0.1:7001/poc-wl/0.1/sb/wl12/environment</br>
